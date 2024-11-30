@@ -1,5 +1,78 @@
 # 💫 About Me:
-Hello World, I am Pawan Sharma aka the_air_cyborg I'm currently studying BCA, I am also a part-time bug bounty hunter.<br>I have secured many companies like ActFiber, quizlet, etc and gained hall of fame and recognition, I am also certified in Ethical Hacking Essentials (EHE) from Ec-Council.<br>I believe the more we learn, the more we need to learn, apart from my cybersecurity and bug bounty knowledge and skills I am also upskilling my-self in web-devlopment and problem-solving techniques. Last but not least I am preparing for Certified Ethical Hacker (CEH).
+Final-year BCA student and aspiring cybersecurity professional with a strong focus on protecting government and private organizations from cyber threats and data theft. Passionate about SOC (Security Operations Centre) operations, with a commitment to safeguarding critical systems while upholding the values of data, time, and ethics. A quick learner improving communication skills in English and Japanese, with strengths in time management and non-verbal communication. Dedicated to continuous learning and proactive in addressing the evolving challenges of cybersecurity.
+
+---
+
+## 🛠️ **Professional Experience**
+### **Part-Time Bug Bounty Hunter** *(Currently Working)*
+- Currently a part-time Bug-Bounty Hunter and Security Researcher.
+- Recognized in Hall of Fame and received certificates from programs like:
+  - **ACT FIBER**
+  - **Quizlet**
+  - **NASA**
+  - And many more.
+
+---
+
+## 🎓 **Academic Achievements & Certifications**
+- **Google Cybersecurity Professional Certificate**
+- **Ethical Hacking Essentials** - EC-Council
+- **API Testing** - Apisec University
+- **OWASP Top 10** - Apisec University
+- **Introduction to Raspberry Pi** - EC-Council
+- **Android Bug Hunting: Hunt Like a Rat** - EC-Council
+- **Introduction to Dark Web, Anonymity** - EC-Council
+- **Java Programming** - Great Learning (March 2023)
+- **Data Structures in C** - Great Learning (March 2023)
+- **Introduction to MongoDB Certification Course**
+
+---
+
+## 📂 **Live/Academic Projects**
+1. **Security Audit**  
+   Conducted a security audit for a company, identified vulnerabilities, and provided mitigation strategies.
+   
+2. **Keylogger Project Using Python**  
+   Built a keylogger to capture keyboard inputs and relay them securely to the tool user.
+
+3. **Front End Development: Retro Wheels**  
+   Developed a responsive and user-friendly front end for a second-hand car buying/selling project. Focused on seamless user interaction and optimized navigation for enhanced engagement.
+
+4. **Back End Development: Player Management**  
+   Designed a dynamic player management website using:
+   - **Front End**: HTML, CSS, JavaScript.
+   - **Back End**: PHP for managing gaming events and organizers.
+
+---
+
+## 🏆 **Positions of Responsibility**
+- **Game Lead**: Led a team of 15 players in the **NahamSec CTF (Capture the Flag) 2024**.
+- **Founder, Gaming Club**: Initiated a gaming club branch at Surana College Esoteric Club, incorporating game development workshops and boosting student participation in co-curricular activities.
+
+---
+
+## 🌟 **Extra-Curricular Activities**
+- **Blog Writer and Content Creator**
+- **District-Level Kabaddi Player** (RSS Team)
+
+---
+
+## 💻 **Core Competencies**
+### **Programming Languages**
+- C, C++, MySQL, Java, Python, PHP, TypeScript
+
+### **Security Tools**
+- Burp Suite, SIEM Tools, NIST Framework
+
+### **API Testing**
+- OWASP Top 10, Postman
+
+### **Other Skills**
+- Intermediate in Linux Command Line
+- **Soft Skills**: Teamwork, interpersonal communication, quick learning, leadership, multitasking.
+
+---
+
 
 
 ## 🌐 Socials:
